@@ -1,0 +1,4 @@
+upstash-vector
+openai
+groq
+python-dotenv
